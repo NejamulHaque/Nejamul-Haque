@@ -11,7 +11,11 @@
 
 - 🌱 I’m currently learning **Frameworks and New Skills.**
 
-- 👯 I’m looking to collaborate on **Accenture**
+- 👯 I’m looking to collaborate on **
+  - AI-powered tools (e.g., assistants, automation)
+  - Full-stack web apps (Node.js, MongoDB, React)
+  - Open-source projects with real-world impact
+  - Anything creative, useful, and fun!**
 
 - 👨‍💻 All of my projects are available at [nejamulportfolio.vercel.app](nejamulportfolio.vercel.app)
 
