@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **nejamulhaque.05@gmail.com**
 
-- 📄 Know about my experiences [https://nejamulportfolio.vercel.app/](https://nejamulportfolio.vercel.app/)
+- 📄 Know about my experiences [nejamulportfolio.vercel.app](nejamulportfolio.vercel.app)
 
 - ⚡ Fun fact **Currently Studying Computer Science.**
 
